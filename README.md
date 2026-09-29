@@ -1,3 +1,3 @@
 # pair-recipes
-recipes
-no recipes here
+recipes!
+no recipes here!
