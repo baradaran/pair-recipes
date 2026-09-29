@@ -1,3 +1,5 @@
+
 # pair-recipes
-recipes!
-no recipes here!
+recipes
+and more!
+Recipes to learn git and how to solve conflicts.
